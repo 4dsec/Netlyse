@@ -1,4 +1,7 @@
+Steps to follow before executing the script:
+
 1. Download the `.mmdb` file from the link below.
+   
    https://drive.google.com/open?id=1egHV3OJsliuV6Up0404dTZ0oFubZxoi4
    
    
