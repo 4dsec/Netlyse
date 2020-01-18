@@ -1,4 +1,6 @@
-A simple script to locate IPs in a pcap file.
+**GEOLOCATOR**
+
+A simple script to locate IP addresses in a pcap file.
 
 
 Steps to follow before executing the script:
