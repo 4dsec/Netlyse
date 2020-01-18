@@ -1,3 +1,6 @@
+A simple script to locate IPs in a pcap file.
+
+
 Steps to follow before executing the script:
 
 1. Download the `.mmdb` file from the link below.
